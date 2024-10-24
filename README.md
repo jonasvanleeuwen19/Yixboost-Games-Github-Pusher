@@ -1,8 +1,8 @@
 ![Github Pusher](https://github.com/user-attachments/assets/ba6b6099-a79e-40c1-8997-51a5580e2131)
 
-<img src='https://github.com/user-attachments/assets/e74a16bf-8750-4215-b569-b55967947e21' align='right' width='20%'>
-
 # Yixboost Games GitHub Gamepusher
+
+<img src='https://github.com/user-attachments/assets/e74a16bf-8750-4215-b569-b55967947e21' align='right' width='10%'>
 
 ![License](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3-blue.svg) ![Windows](https://img.shields.io/badge/platform-Windows-0078D7.svg) ![Batch](https://img.shields.io/badge/code-.bat-orange.svg)
 
